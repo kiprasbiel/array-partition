@@ -10,4 +10,4 @@ Projekto aplanko konsolėje įrašykite: `> docker-compose up -d`
 
 Pasileidus konteineriams, peržiūrėti programą galite:
 - suvesdami `localhost` naršyklėje
-- per konsolę suvedu `> php console.php`
+- per konsolę suvedus `> php console.php`
